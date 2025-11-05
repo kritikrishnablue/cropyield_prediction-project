@@ -2,11 +2,6 @@
 
 This project predicts crop yield based on historical pesticide usage data using **Machine Learning (Polynomial Regression)**. The model is deployed using **Flask**, providing a simple web interface for users to enter a year and get the predicted crop yield.
 
-## Team Members
--KRITI KRISHNA(23215029)
--HARDIK BATRA(23215018)
--SANAL VAISH(23215053)
-
 ## 📌 Features
 - 📊 **Data Preprocessing & Visualization**  
 - 🧠 **Polynomial Regression Model for Prediction**  
